@@ -16,6 +16,3 @@ console.log("server has started.");
 }
 exports.start =start;
 
-123123
-qqwweer
-kkkk
